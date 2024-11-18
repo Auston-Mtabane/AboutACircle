@@ -1,0 +1,3 @@
+What you need to know about a circle...
+This project uses Javascript basics to calculate a few properties about a cirle
+The Ui is fairly simple and built by HTML and Css
