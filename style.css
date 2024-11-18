@@ -1,1 +1,33 @@
+body {
+    font-family: monospace;
+}
+
+input {
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 1px solid rgb(255, 115, 0);
+    height: 30px;
+    max-width: 564px;
+    width: 20%;
+    padding-left: 30px;
+    font-size: 16px;
+}
+
+button {
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 0px solid rgb(255, 115, 0);
+    height: 30px;
+    max-width: 564px;
+    background-color:  rgb(121, 121, 121);
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+}
+
+div {
+    background-color: rgb(240, 240, 240);
+    margin: 20px 20px 20px;
+    
+
+}
 
